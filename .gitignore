@@ -1,0 +1,24 @@
+# deps
+node_modules/
+vendor/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+# build
+.next/
+dist/
+build/
+.nuxt/
+.output/
+# secrets
+.env
+.env.*
+!.env.example
+# os / editor
+.DS_Store
+Icon?
+._*
+*.log
+.idea/
+.vscode/
