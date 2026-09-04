@@ -64,7 +64,7 @@ function astra_child_footer_markup() { ?>
             <div class="footer-col">
                 <h4>Suivez-nous</h4>
                 <p>
-                    <a href="https://github.com/carls-eth" target="_blank" rel="noopener">Github</a> 
+                    <a href="https://github.com/carls-xyz" target="_blank" rel="noopener">Github</a> 
                 </p>
                 <p class="copy">© <?php echo date('Y'); ?> — Mon Entreprise</p>
             </div>
